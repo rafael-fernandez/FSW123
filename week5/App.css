@@ -1,0 +1,43 @@
+body{
+
+    background: #282369;
+}
+
+.giphyBox
+{
+  width:500px;
+  margin: auto;
+}
+
+.FSW-123
+{
+  text-align: center;
+  color: yellow;
+  font-size: 24px;
+
+}
+
+button
+{
+  margin-bottom: 10px;
+  margin-left: 5px;
+  font-size: 18px;
+  text-align: center;
+  justify-content: center;
+}
+
+input
+{ 
+  width: 200px;
+  font-size: 18px;
+  text-align: center;
+  justify-content: center;
+}
+
+.searchBox
+{
+margin-left: 100px;
+margin-top: 100px;
+margin-bottom: 70px;
+}
+
